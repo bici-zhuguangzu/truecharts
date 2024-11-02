@@ -1,9 +1,9 @@
 {
-    "27.1.2": {
+    "28.4.3": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/premium/vaultwarden/27.1.2",
+        "location": "/home/runner/_work/catalog/catalog/premium/vaultwarden/28.4.3",
         "last_update": "2024-05-29 12:35:14",
         "required_features": [
             "definitions/timezone",
@@ -11,17 +11,17 @@
             "definitions/certificate",
             "definitions/interface"
         ],
-        "human_version": "1.30.5_27.1.2",
-        "version": "27.1.2",
+        "human_version": "1.32.2_28.4.3",
+        "version": "28.4.3",
         "chart_metadata": {
             "annotations": {
                 "truecharts.org/category": "security",
-                "truecharts.org/max_helm_version": "3.14",
+                "truecharts.org/max_helm_version": "3.15",
                 "truecharts.org/min_helm_version": "3.11",
                 "truecharts.org/train": "premium"
             },
             "apiVersion": "v2",
-            "appVersion": "1.30.5",
+            "appVersion": "1.32.2",
             "dependencies": [
                 {
                     "name": "common",
